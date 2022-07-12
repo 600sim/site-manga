@@ -1,4 +1,4 @@
-# site-manga
+# Mangaflix
 
-Projeto criando um site de mangá do zero. 
-So help God.
+📚 Projeto criando um site de mangá do zero. 
+So help me God.
